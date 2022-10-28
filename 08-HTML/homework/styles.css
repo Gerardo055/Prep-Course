@@ -1,0 +1,11 @@
+h1{color: darkturquoise;}
+img{width: 400px;}
+#ThirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: bisque;
+    padding: 50px;
+    border:25px solid aqua;
+}
+#spanID{font-size: 18px;
+margin: 50px;}
