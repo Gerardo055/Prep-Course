@@ -1,11 +1,37 @@
-h1{color: darkturquoise;}
-img{width: 400px;}
+h1{
+    color:aliceblue;
+    width: 500px;
+margin-left: auto;
+margin-right:auto;}
+h3{
+    color:aliceblue;
+width: 500px;
+margin-left:auto;
+margin-right:auto;}
+h4{
+    color:aliceblue;
+width: 500px;
+margin-left:auto;
+margin-right: auto;}
+
+img{
+    width: 400px;}
+
+
 #ThirdDiv{
+    margin: 0 auto;
     width: 500px;
     height: 600px;
     background-color: bisque;
     padding: 50px;
     border:25px solid aqua;
 }
-#spanID{font-size: 18px;
-margin: 50px;}
+#spanId{
+    color: aliceblue;
+    font-size: 18px;
+    margin: 700px;
+
+}
+body{ 
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/1920x1200/1503/Tropical-scenery-sea-beach-palm-trees-fish-sharks_1920x1200.jpg);
+}
